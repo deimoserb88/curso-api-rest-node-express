@@ -1,0 +1,6 @@
+{
+    "nombre" : "Api Reste Express - Producción",
+    "configDB" : {
+        "host" : "prueba-db-server"
+    }
+}
